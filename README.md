@@ -4,7 +4,7 @@
 Sadeq YouTube Downloader is a lightweight, fast and smooth tool for downloading YouTube videos.
 With the help of this tool, you have the possibility to download only that part instead of downloading the whole video and then cutting the part you want from it;
 You can also specify the video and audio format and even the number of frames per second.
-This tool has the ability to read proxy settings and VPNs, and if you are in areas where the YouTube site is filtered, it provides you with the ability to download.
+This tool has the ability to read Windows Proxy Settings and VPNs, and if you are in areas where the YouTube site is filtered, it provides you with the ability to download.
 
 **The most important advantage of this tool compared to others:**
 
