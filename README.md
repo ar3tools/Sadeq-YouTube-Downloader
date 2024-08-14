@@ -16,6 +16,7 @@ https://drive.google.com/file/d/1L1X9KeMskAyY-0Esm6njwkIL02Qd3v2A/view?usp=drive
 
 Download Link of Only Main Executable File:
 
-https://drive.google.com/file/d/182DHgNLmLQjWlwYaB1X-jcX1C0-KEA4Y/view?usp=drive_link
+https://drive.google.com/file/d/1p_mRmX3p81ZqvZ7EWnsCDSLQ4crIMXEx/view?usp=drive_link
 
+Our Email Address:
 ar3tools@gmail.com
