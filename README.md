@@ -16,7 +16,7 @@ https://drive.google.com/file/d/12YOamGbGDI8ngju4lvxiS76vU13rZu2-/view?usp=drive
 
 Download Link of Only Main Executable File:
 
-https://drive.google.com/file/d/1p_mRmX3p81ZqvZ7EWnsCDSLQ4crIMXEx/view?usp=drive_link
+https://drive.google.com/file/d/1ovLo81944R-iaieWDuddM2BPygdlFFD9/view?usp=drive_link
 
 Our Email Address:
 
