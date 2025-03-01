@@ -12,7 +12,7 @@ Saving time and money because of downloading the cut you want from the video ins
 
 Download Link of Full Package:
 
-https://drive.google.com/file/d/16HgRVG-GcjMLGcG1Ecj4eO7e7zdIiqu1/view?usp=drive_link
+https://drive.google.com/file/d/121Y45O7rYGPPTxE2y1Rm-W8R54oh_0ep/view?usp=drive_link
 
 Download Link of Only Main Executable File:
 
