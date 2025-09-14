@@ -12,11 +12,11 @@ Saving time and money because of downloading the cut you want from the video ins
 
 Download Link of Full Package:
 
-https://drive.google.com/file/d/1tMefzl6mx1_frRmXZFJ2jSrwq1tAQOP9/view?usp=sharing
+https://drive.google.com/file/d/1E8hmTDj7Nd8Zg7o-U7Wmoy6brWnrSAGW/view?usp=sharing
 
 Download Link of Only Main Executable File:
 
-https://drive.google.com/file/d/1NYVf2BvuTYD2ouRfQUfRCsnXdJuMRQf9/view?usp=sharing
+https://drive.google.com/file/d/1MNvJvzY4H_RNBlH3CbvxWOHksRrZi9fU/view?usp=sharing
 
 Our Email Address:
 
