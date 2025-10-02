@@ -10,7 +10,8 @@ This tool has the ability to read Windows Proxy Settings and VPNs, and if you ar
 
 Saving time and money because of downloading the cut you want from the video instead of downloading the whole video and then cutting that part.
 
-The Last Version:  v1.1404.7.10
+**The Last Version:**
+v1.1404.7.10
 ***
 **Download Link of Full Package:**
 https://drive.google.com/file/d/18Txol3ic6PQIlJSjuA7z8A_dGHu4Yz4p/view?usp=sharing
