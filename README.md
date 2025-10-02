@@ -14,13 +14,10 @@ The Last Version:  v1.1404.7.10
 
 
 **Download Link of Full Package:**
-**
 https://drive.google.com/file/d/18Txol3ic6PQIlJSjuA7z8A_dGHu4Yz4p/view?usp=sharing
-
-
+***
 **Download Link of Only Main Executable File:**
 https://drive.google.com/file/d/1EY6bvUKORdUVQ2DRCTXDVwBTZepmulUu/view?usp=sharing
-
-
+***
 **Our Email Address:**
 ar3tools@gmail.com
