@@ -16,11 +16,11 @@ v1.1404.8.3
 ***
 **Download Link of Full Package:**
 
-https://drive.google.com/file/d/12i8BXW95XygsbykbbSi4nn4b6nj7f7ML/view?usp=sharing
+https://drive.google.com/file/d/1w5PZETnd2gXk6gwjCeGy26TTsKs6gNxM/view?usp=sharing
 ***
 **Download Link of Only Main Executable File:**
 
-https://drive.google.com/file/d/1LujOO8mSAhBIansphqrLXCu2vLvtk4X9/view?usp=sharing
+https://drive.google.com/file/d/1_rYG_hk-4Lw-R0vbftlZqCDsyoWE-Iw8/view?usp=sharing
 ***
 **Our Email Address:**
 ar3tools@gmail.com
