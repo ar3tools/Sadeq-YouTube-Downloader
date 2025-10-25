@@ -12,13 +12,15 @@ Saving time and money because of downloading the cut you want from the video ins
 
 ***
 **The Last Version:**
-v1.1404.7.10
+v1.1404.8.3
 ***
 **Download Link of Full Package:**
-https://drive.google.com/file/d/18Txol3ic6PQIlJSjuA7z8A_dGHu4Yz4p/view?usp=sharing
+
+https://drive.google.com/file/d/12i8BXW95XygsbykbbSi4nn4b6nj7f7ML/view?usp=sharing
 ***
 **Download Link of Only Main Executable File:**
-https://drive.google.com/file/d/1EY6bvUKORdUVQ2DRCTXDVwBTZepmulUu/view?usp=sharing
+
+https://drive.google.com/file/d/1LujOO8mSAhBIansphqrLXCu2vLvtk4X9/view?usp=sharing
 ***
 **Our Email Address:**
 ar3tools@gmail.com
