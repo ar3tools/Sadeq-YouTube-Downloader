@@ -12,7 +12,7 @@ Saving time and money because of downloading the cut you want from the video ins
 
 ***
 **The Last Version:**
-v1.1404.8.3
+v1.1404.9.7
 ***
 **Download Link of Full Package:**
 
